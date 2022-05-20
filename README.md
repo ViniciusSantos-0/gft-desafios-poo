@@ -4,3 +4,6 @@ cada Source Folder tem pacotes com suas funcionalidades e mains do desafio <br>c
 ao nome da source folder.
 
 <br>Para rodar cada desafio terá que entrar em cada source folder que terá o main <br>do desafio.
+
+<br> Projeto feito no Eclipse.
+
